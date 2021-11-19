@@ -1,0 +1,13 @@
+name: KnowledgeAnalyzer-dihanhu
+title: KnowledgeAnalyzer-dihanhu
+username:
+account: nyuprof
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5166956
+bundleId: 5271950
+url: https://nyuprof.shinyapps.io/KnowledgeAnalyzer-dihanhu/
+when: 1637353122.17577
+lastSyncTime: 1637353122.17579
+asMultiple: FALSE
+asStatic: FALSE
